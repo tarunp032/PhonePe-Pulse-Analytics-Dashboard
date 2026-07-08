@@ -86,15 +86,7 @@ This dashboard answers these questions using interactive business intelligence t
 
 ---
 
-# 📊 Dashboard Preview
-
-## Executive Dashboard
-
-![Dashboard](Screenshots/Main_Dashboard.png)
-
----
-
-## Custom Tooltip
+# 🎯 Custom Tooltip Preview
 
 ![Tooltip](Screenshots/Tooltip.png)
 
@@ -202,7 +194,7 @@ The dashboard provides several valuable insights, including:
 
 # 📂 Dataset
 
-The project uses a PhonePe-style digital payment transaction dataset.
+This project uses a structured PhonePe-style digital payment transaction dataset containing transaction records, payment status, service types, user demographics, and date-based information for analytical reporting.
 
 ### Data Preparation
 
@@ -225,6 +217,7 @@ PhonePe_Pulse_Transaction_Analytics_Dashboard/
 │
 ├── Background Image/
 │   └── PhonePe_Background.png
+│   └── Tooltip_Background.png
 │
 ├── PowerBI/
 │   └── PhonePe_Pulse_Transaction_Analytics_Dashboard.pbix
@@ -232,7 +225,6 @@ PhonePe_Pulse_Transaction_Analytics_Dashboard/
 ├── Screenshots/
 │   ├── Main_Dashboard.png
 │   ├── Tooltip.png
-│   └── Dashboard_Preview.png
 │
 └── README.md
 ```
@@ -271,24 +263,17 @@ Possible future improvements include:
 
 ---
 
-# 📸 Dashboard Screens
+# 🌟 Support
 
-| Dashboard | Preview |
-|------------|---------|
-| Executive Analytics Dashboard | Main Dashboard Screenshot |
-| Custom Tooltip | Tooltip Screenshot |
-
----
-
-# 🤝 Connect
-
-If you found this project helpful or interesting:
+If you found this project helpful or inspiring:
 
 ⭐ Star this repository
 
 🍴 Fork it
 
-💬 Share your feedback
+💡 Share your suggestions through GitHub Issues
+
+Your feedback is always appreciated.
 
 ---
 
